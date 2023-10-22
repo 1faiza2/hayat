@@ -1,0 +1,16 @@
+this is some text in my text file.
+
+
+
+git config --global user.name="1faiza2"
+
+
+
+git config --global user.email="faizabukharishahfaiza@gmail.com"
+
+
+
+
+git add *
+git commit -m "this is some text"
+git push

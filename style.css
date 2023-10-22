@@ -1,0 +1,68 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+body{
+    background-color: #541554;
+}
+.mso{
+    display: flex;
+    align-items: center;
+    gap: 20px;   
+    color: black;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
+.logo{
+    display: flex;
+    gap: 20px;
+}
+.ul{
+    display: flex;
+    gap: 20px;
+    color:white;
+    list-style-type: none;
+}
+.signin-btn{
+    color: white;
+}
+.talktosales-btn{
+    color: white;
+}
+.tryforfree-btn{
+    color: white;
+}
+.main{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+.h2{
+    font-size: 50px;
+    color: yellow;
+}
+h3{
+    color: white;
+}
+
+.button1{
+    background-color: #541554;
+    padding: 15px 30px 15px 30px;
+    border-radius: 2px;
+}
+
+.button2{
+    padding: 15px 30px 15px 30px;
+    border: 2px solid #541554;
+    border-radius: 2px;
+}
